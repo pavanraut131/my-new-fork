@@ -17,10 +17,10 @@ cbee26b I added project files
 ```
 The end goal:
 
-```
+
 b8f8889 add top navbar
 64fa7d4 add bootstrap
 4273423 add basic HTML boilerplate
 0ffb0aa add project files
 0e19c7a initial commit
-```
+
