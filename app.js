@@ -12,3 +12,9 @@ function greeting() {
   console.log("hello");
 }
 greeting();
+
+function multiply(a, b) {
+  return a * b;
+}
+
+console.log(multiply(5, 7));
