@@ -18,3 +18,8 @@ function multiply(a, b) {
 }
 
 console.log(multiply(5, 7));
+
+function division(a, b) {
+  return a / b;
+}
+console.log(division(6, 3));
