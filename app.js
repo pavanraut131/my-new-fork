@@ -6,6 +6,4 @@ function sum(a, b) {
   return a + b;
 }
 
-console.log(sum(a, b));
-
-console.log("this is new greeting ");
+console.log(sum(a, b))
